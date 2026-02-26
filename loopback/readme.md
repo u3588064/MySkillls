@@ -8,3 +8,7 @@ An Example:
   into tophub_links.json. Validate the JSON is readable and output
   <promise>DONE</promise> only after the file exists with >=1000
   items." -CompletionPromise "DONE" -MaxIterations 10
+
+
+Original_Author: 肆〇柒/ForOhZen
+Editor: Skedge
